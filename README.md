@@ -15,10 +15,10 @@ A real time chat application by react which backend supported by [chatengine.io]
 * Then create a __``new user``__ and __``new chat``__. You will get it in current page
 * clone the repository in your local machine by
   ```bash 
-    git clone
+    git clone https://github.com/saiful-70/flat-chat.git
   ```
   or download by
-  [link]()
+  __[link](https://github.com/saiful-70/flat-chat.git)__
 * go to project directory and rename ``.env-example`` to ``.env``
 * enter the .env file and replace __``Your Project Id``__ with your __``project id``__ that you copied sometimes ago
 * you are ready to go. just run
